@@ -2,4 +2,5 @@
 Front end for the Yaro Doctor Portal
 
 ## To Run Locally
-npm start
+1. npm start
+2. navigate to http://localhost:8080/login
